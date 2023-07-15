@@ -4,7 +4,7 @@ import joblib
 
 
 # Load the trained model
-model = joblib.load('ExtraTreesRegressorModel.pkl')
+model = joblib.load('Model.pkl')
 # Load dataset
 df = pd.read_csv('comapany.csv')
 
