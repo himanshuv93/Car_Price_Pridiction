@@ -9,7 +9,7 @@ Explore the dataset and visualize the data.
 Input various car features, such as mileage, brand, year, and more, to get an estimated price.
 The app uses a trained machine-learning model to make predictions.
 Model Deployment
-We are pleased to announce that the project has been successfully deployed using Streamlit. You can access the live deployment of the Car Price Prediction model by following this link: https://datasciencecapstoneproject-rzaashif.streamlit.app/
+We are pleased to announce that the project has been successfully deployed using Streamlit. You can access the live deployment of the Car Price Prediction model by following this link: https://datasciencecapstoneproject-himanshuv93.streamlit.app/
 
 **Usage**
 
